@@ -4,7 +4,7 @@ PHYS 7810: Quantum Error Correction, Fall 2026. Due September 8.
 
 Three problems.
 
-## Problem 1 — How a qubit actually loses information
+## Problem 1 — Kraus Operators
 
 An excited atom can randomly emit a photon and fall to its ground state. This problem
 turns that real physical process into the kind of error model we use in error
@@ -16,7 +16,7 @@ correction (Kraus operators).
 - **B**: Given that error, could one of our known error-correcting codes fix it? How
   would you actually detect and fix the error in the lab?
 
-## Problem 2 — Storing a qubit in a single bigger particle
+## Problem 2 — Qudit Codes
 
 Normally we spread one logical qubit across several physical qubits. Here, instead,
 we try to hide a qubit inside a single particle that has more than 2 levels (a
@@ -33,7 +33,7 @@ we try to hide a qubit inside a single particle that has more than 2 levels (a
 - **E–F**: Build a better version (10 levels) that fixes a bigger, more natural set of
   errors, and show why you need at least 10 levels to do it.
 
-## Problem 3 — How good does your hardware need to be?
+## Problem 3 — Repetition Code Threshold
 
 This one is about the simplest error-correcting code there is — just repeating a bit
 many times — but asks a harder question: what if the errors aren't random, but placed
