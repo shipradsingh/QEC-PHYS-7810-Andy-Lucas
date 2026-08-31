@@ -4,7 +4,7 @@ PHYS 7810: Quantum Error Correction, Fall 2026. Due September 8.
 
 Three problems.
 
-## Problem 1 — Kraus Operators
+## Problem 1 — Kraus Operators, QEC Codes, Knill-Laflamme Theorem
 
 An excited atom can randomly emit a photon and fall to its ground state. This problem
 turns that real physical process into the kind of error model we use in error
