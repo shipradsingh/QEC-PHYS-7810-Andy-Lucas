@@ -1,4 +1,4 @@
-# Homework 1 — What's in It
+# Homework 1
 
 PHYS 7810: Quantum Error Correction, Fall 2026. Due September 8.
 
