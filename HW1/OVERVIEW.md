@@ -13,8 +13,8 @@ correction (Kraus operators).
 - **A**: Do the math showing that "the atom might emit a photon" is the same thing as
   a specific 2-operator error channel. Then check the math is self-consistent (a valid
   channel).
-- **B**: Given that error, could one of our known error-correcting codes fix it? How
-  would you actually detect and fix the error in the lab?
+- **B**: Given that error, could one of our known error-correcting codes fix it? Which
+  Pauli-product measurements would you perform to identify the error, and what correction would you apply afterward?
 
 ## Problem 2 — Qudit Codes
 
